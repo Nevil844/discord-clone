@@ -34,8 +34,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 uploadthing for files
-shadcn ui for ui
+
+shadcn ui for ui 
+
 prisma studio for schema
+
 planetscale for sql db
+
 livekit for video calls
 
